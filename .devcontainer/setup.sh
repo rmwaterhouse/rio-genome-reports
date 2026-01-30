@@ -8,6 +8,7 @@ sudo chown -R vscode:vscode /opt/conda
 conda config --set always_yes true
 
 # Now everything runs as vscode user with auto-yes flags
+pip install beautifulsoup4
 conda install -c conda-forge mamba
 mamba env create -f environment.yml
 conda init bash
