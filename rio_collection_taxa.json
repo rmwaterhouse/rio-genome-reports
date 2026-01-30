@@ -1,0 +1,217 @@
+{
+  "collection": {
+    "url": "https://riojournal.com/topical_collection/280/",
+    "title": "The European Reference Genome Atlas (ERGA) Community Genome Reports",
+    "total_publications": 16
+  },
+  "publications": [
+    {
+      "publication": {
+        "doi": "10.3897/rio.11.e174988",
+        "url": "https://doi.org/10.3897/rio.11.e174988",
+        "title": "The genome sequence of the Common Brassy Ringlet, Erebia cassioides (Reiner & Hohenwarth, 1792) (Lepidoptera, Nymphalidae)"
+      },
+      "taxa": [
+        {
+          "genus": "Erebia",
+          "species": "cassioides"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e158720",
+        "url": "https://doi.org/10.3897/arphapreprints.e158720",
+        "title": "ERGA-BGE Reference Genome of Gluvia dorsalis: An Endemic Sun Spider from Iberian Arid Regions"
+      },
+      "taxa": [
+        {
+          "genus": "Gluvia",
+          "species": "dorsalis"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e155925",
+        "url": "https://doi.org/10.3897/arphapreprints.e155925",
+        "title": "ERGA-BGE genome of Coenonympha oedippus: an IUCN endangered European butterfly species occurring in two ecotypes"
+      },
+      "taxa": [
+        {
+          "genus": "Coenonympha",
+          "species": "oedippus"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e155484",
+        "url": "https://doi.org/10.3897/arphapreprints.e155484",
+        "title": "ERGA-BGE genome of Cheirolophus tagananensis: an IUCN endangered shrub endemic to the Canary Islands"
+      },
+      "taxa": [
+        {
+          "genus": "Cheirolophus",
+          "species": "tagananensis"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e155085",
+        "url": "https://doi.org/10.3897/arphapreprints.e155085",
+        "title": "ERGA-BGE Reference Genome of the Western Montpellier Snake (Malpolon monspessulanus), a Key Species for Evolutionary and Venom Studies"
+      },
+      "taxa": [
+        {
+          "genus": "Malpolon",
+          "species": "monspessulanus"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e154773",
+        "url": "https://doi.org/10.3897/arphapreprints.e154773",
+        "title": "ERGA-BGE Reference Genome of the Striped Field Mouse (Apodemus agrarius), a Widespread and Abundant Species in Central and Eastern Europe"
+      },
+      "taxa": [
+        {
+          "genus": "Apodemus",
+          "species": "agrarius"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e154801",
+        "url": "https://doi.org/10.3897/arphapreprints.e154801",
+        "title": "ERGA-BGE Reference Genome of the Northern chamois (Rupicapra rupicapra): Europe's most abundant mountain ungulate"
+      },
+      "taxa": [
+        {
+          "genus": "Rupicapra",
+          "species": "rupicapra"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e154439",
+        "url": "https://doi.org/10.3897/arphapreprints.e154439",
+        "title": "ERGA-BGE genome of Noah's Ark shell (Arca noae Linnaeus, 1758), a Mediterranean bivalve species"
+      },
+      "taxa": [
+        {
+          "genus": "Arca",
+          "species": "noae"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e154462",
+        "url": "https://doi.org/10.3897/arphapreprints.e154462",
+        "title": "ERGA-BGE genome of Pinctada radiata (Leach, 1814): one of the first Lessepsian migrants"
+      },
+      "taxa": [
+        {
+          "genus": "Pinctada",
+          "species": "radiata"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e153920",
+        "url": "https://doi.org/10.3897/arphapreprints.e153920",
+        "title": "ERGA-BGE genome of Acomys minous (Bate, 1906): the Crete spiny mouse, endemic to the island of Crete, Greece"
+      },
+      "taxa": [
+        {
+          "genus": "Acomys",
+          "species": "minous"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/arphapreprints.e152862",
+        "url": "https://doi.org/10.3897/arphapreprints.e152862",
+        "title": "ERGA-BGE genome of Valencia hispanica (Valenciennes, 1826): a critically endangered Iberian toothcarp"
+      },
+      "taxa": [
+        {
+          "genus": "Valencia",
+          "species": "hispanica"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.24072/pcjournal.514",
+        "url": "https://doi.org/10.24072/pcjournal.514",
+        "title": "Chromosome-level reference genome assembly for the mountain hare (Lepus timidus)"
+      },
+      "taxa": [
+        {
+          "genus": "Lepus",
+          "species": "timidus"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/rio.11.e173880",
+        "url": "https://doi.org/10.3897/rio.11.e173880",
+        "title": "The genome sequence of the Small Elephant Hawk-moth, Deilephila porcellus (Linnaeus, 1758)"
+      },
+      "taxa": [
+        {
+          "genus": "Deilephila",
+          "species": "porcellus"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/rio.11.e170925",
+        "url": "https://doi.org/10.3897/rio.11.e170925",
+        "title": "The genome sequence of the Scarce Forester, Jordanita globulariae (Hübner, 1793)"
+      },
+      "taxa": [
+        {
+          "genus": "Jordanita",
+          "species": "globulariae"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/rio.11.e166774",
+        "url": "https://doi.org/10.3897/rio.11.e166774",
+        "title": "The genome sequence of the Beautiful Yellow Underwing, Anarta myrtilli (Linnaeus, 1761)"
+      },
+      "taxa": [
+        {
+          "genus": "Anarta",
+          "species": "myrtilli"
+        }
+      ]
+    },
+    {
+      "publication": {
+        "doi": "10.3897/rio.11.e166688",
+        "url": "https://doi.org/10.3897/rio.11.e166688",
+        "title": "The genome sequence of the Lappet Moth, Gastropacha quercifolia (Linnaeus, 1758)"
+      },
+      "taxa": [
+        {
+          "genus": "Gastropacha",
+          "species": "quercifolia"
+        }
+      ]
+    }
+  ]
+}
